@@ -11,7 +11,7 @@
 Goals:
 1k Commits
 
-<!--<img src="https://github-readme-stats.vercel.app/api?username=Cerebrovinny&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
-    title="Profile stats" alt="Profile stats" />-->
+<img src="https://github-readme-stats.vercel.app/api?username=Cerebrovinny&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
+    title="Profile stats" alt="Profile stats" />
     
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cerebrovinny&layout=compact)] -->
