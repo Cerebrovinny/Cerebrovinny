@@ -18,4 +18,4 @@ Goals:
  
 <img src="https://i.ibb.co/cQHW5Gt/1-XGyw-UOSTXn-ZEv52-WRwa1-DA.png" />
     
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cerebrovinny&layout=compact)] -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cerebrovinny&layout=compact)]
