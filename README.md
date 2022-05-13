@@ -2,6 +2,11 @@
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
+<div align="center">
+    <img src="./icons/gopher.svg" height="30px">
+
+</div>
+
 <!--
 **Cerebrovinny/Cerebrovinny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
