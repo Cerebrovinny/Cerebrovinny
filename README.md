@@ -19,3 +19,5 @@ Goals:
 <img src="https://i.ibb.co/cQHW5Gt/1-XGyw-UOSTXn-ZEv52-WRwa1-DA.png" />
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cerebrovinny&layout=compact)]
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Cerebrovinny)](https://github.com/ryo-ma/github-profile-trophy)
