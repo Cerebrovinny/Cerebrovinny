@@ -6,7 +6,6 @@
     <img src="./icons/gopher.svg" height="30px">
     <img src="./icons/typescript.svg" height="30px">
     <img src="./icons/django.svg" height="30px">
-    <img src="./icons/docker.svg" height="30px">
     <img src="./icons/javascript.svg" height="30px">
     <img src="./icons/math.svg" height="30px">
     <img src="./icons/nest.svg" height="30px">
