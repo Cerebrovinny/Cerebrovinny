@@ -12,6 +12,7 @@
     <img src="./icons/spring.svg" height="30px">
     <img src="./icons/amazon_aws-icon.svg" height="30px">
     <img src="./icons/docker-icon.svg" height="30px">
+    <img src="./icons/kafka.png" height="30px">
 
 </div>
 
