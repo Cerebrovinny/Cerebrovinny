@@ -9,6 +9,7 @@
     <img src="./icons/javascript.svg" height="30px">
     <img src="./icons/nest.svg" height="30px">
     <img src="./icons/python.svg" height="30px">
+    <img src="./icons/spring.svg" height="30px">
 
 </div>
 
