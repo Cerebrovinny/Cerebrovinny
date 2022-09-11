@@ -10,10 +10,11 @@
     <img src="./icons/nest.svg" height="30px">
     <img src="./icons/python.svg" height="30px">
     <img src="./icons/spring.svg" height="30px">
-    <img src="./icons/amazon_aws-icon.svg" height="30px">
+    <img src="./icons/aws-icon.svg" height="30px">
     <img src="./icons/docker-icon.svg" height="30px">
     <img src="./icons/kafka.png" height="40px">
     <img src="./icons/react-js.svg" height="30px">
+    <img src="./icons/nextjs.svg" height="30px">
     <img src="./icons/opentelemetry.svg" height="30px">
 
 </div>
