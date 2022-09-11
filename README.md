@@ -14,6 +14,7 @@
     <img src="./icons/docker-icon.svg" height="30px">
     <img src="./icons/kafka.png" height="40px">
     <img src="./icons/react-js.svg" height="30px">
+    <img src="./icons/opentelemetry.svg" height="30px">
 
 </div>
 
