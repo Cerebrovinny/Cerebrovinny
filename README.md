@@ -15,7 +15,7 @@
     <img src="./icons/react-js.svg" height="30px">
     <img src="./icons/nextjs.png" height="30px">
     <img src="./icons/opentelemetry.svg" height="30px">
-    <img src="./icons/airflow.svg" height="30px">
+<!--     <img src="./icons/airflow.svg" height="30px"> -->
 </div>
 
 <!--
