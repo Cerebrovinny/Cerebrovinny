@@ -14,6 +14,7 @@
     <img src="./icons/react-js.svg" height="30px">
     <img src="./icons/nextjs.png" height="30px">
     <img src="./icons/opentelemetry.svg" height="30px">
+    <img src="./icons/C++.png" height="30px">
 </div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Cardoso-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-cardoso96/)](https://www.linkedin.com/in/vinicius-cardoso96/)
