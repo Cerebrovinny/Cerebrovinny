@@ -1,5 +1,9 @@
-#Link medium
-[]()
+### Hello!
+
+#### [Follow ME on Medium](https://medium.com/@cerebrovinny)
+
+### My content is helping you?
+[![IMG_4311](https://user-images.githubusercontent.com/52631834/230462663-3cc97410-56e9-4189-b4fc-dd10dfc5cf4d.PNG)](https://www.buymeacoffee.com/cerebrovinny)
 
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
