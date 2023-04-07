@@ -1,4 +1,4 @@
-🌟 Welcome! 🌟
+ Welcome!
 
 🔗 Follow ME on Medium
 
