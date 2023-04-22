@@ -2,9 +2,18 @@
 
 🔗 Follow ME on Medium
 
-💡 Is my content helping you? Show your support!
-[![IMG_4311](https://user-images.githubusercontent.com/52631834/230462663-3cc97410-56e9-4189-b4fc-dd10dfc5cf4d.PNG)](https://www.buymeacoffee.com/cerebrovinny)
+<a href="https://github.com/Cerebrovinny/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/Cerebrovinny/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Cerebrovinny&column=8&theme=gruvbox&no-frame=true"/>
+</a>
 
+
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Cerebrovinny&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cerebrovinny&layout=compact" />
+</div>
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
@@ -31,6 +40,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Cardoso-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-cardoso96/)](https://www.linkedin.com/in/vinicius-cardoso96/)
 [![Gmail Badge](https://img.shields.io/badge/-vinny.cardoso96@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinny.cardoso96@gmail.com)](mailto:vinny.cardoso96@gmail.com)
  
-🏆
+
+💡 Is my content helping you?
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Cerebrovinny)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://user-images.githubusercontent.com/52631834/230462663-3cc97410-56e9-4189-b4fc-dd10dfc5cf4d.PNG" alt="IMG_4311" width="600"/>
