@@ -10,10 +10,10 @@
 
 ---
 
-<div>
+<!-- <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Cerebrovinny&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cerebrovinny&layout=compact" />
-</div>
+</div> -->
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
