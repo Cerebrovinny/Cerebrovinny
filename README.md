@@ -34,7 +34,5 @@
 📬 Get in touch:
 [![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Cardoso-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-cardoso96/)](https://www.linkedin.com/in/vinicius-cardoso96/)
 [![Gmail Badge](https://img.shields.io/badge/-vinny.cardoso96@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinny.cardoso96@gmail.com)](mailto:vinny.cardoso96@gmail.com)
-💡 Is my content helping you?
-<br>
 <img src="https://user-images.githubusercontent.com/52631834/230462663-3cc97410-56e9-4189-b4fc-dd10dfc5cf4d.PNG" alt="IMG_4311" width="600"/> 
 -->
