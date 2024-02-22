@@ -28,5 +28,6 @@
     <img src="./icons/react-js.svg" height="30px" alt="React">
     <img src="./icons/nextjs.png" height="30px" alt="Next.js">
     <img src="./icons/opentelemetry.svg" height="30px" alt="OpenTelemetry">
+    <img src="./icons/playwright.png" height="30px" alt="Playwright">
     <img src="./icons/C++.png" height="30px" alt="C++">
 </div>
