@@ -1,6 +1,6 @@
  Welcome!
 
-🔗 Follow ME on Medium
+🔗 <a href="https://medium.com/@cerebrovinny" target="_blank">Follow ME on Medium</a>
 
 <a href="https://github.com/Cerebrovinny/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/Cerebrovinny/github-profile-trophy">
